@@ -12,4 +12,4 @@ Extra resource materials for the LFD121 certification
 
 [https://www.commoncriteriaportal.org/cc/index.cfm](https://www.commoncriteriaportal.org/ccra/index.cfm)
 
-
+[Privacy](https://iapp.org/about/what-is-privacy/)
